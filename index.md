@@ -33,12 +33,12 @@ of Markov stochastic sequences"_, 2009
 		<dt>2018 - now &nbsp;&nbsp;&nbsp; <strong>Ritt Assistant Professor</strong></dt>
 			<dd> <em>Columbia University</em>, USA </dd>
 		<dt>2016 - 2018 &nbsp;&nbsp;&nbsp; <strong>Postdoctoral fellow</strong></dt>
-			<dd><em>University of Toronto</em>, Canada. Worked with <a href="http://www.math.toronto.edu/quastel/">Prof. Jeremy Quastel</a></dd>
+			<dd><em>University of Toronto</em>, Canada. Worked with <a href="http://www.math.toronto.edu/quastel/">Jeremy Quastel</a></dd>
 		<dt>2012 - 2016 &nbsp;&nbsp;&nbsp; <strong>Ph.D. in Mathematics</strong></dt>
-			<dd><em>University of Warwick</em>, the United Kingdom. Adviser <a href="http://www.hairer.org">Prof. Martin Hairer</a></dd>
+			<dd><em>University of Warwick</em>, the United Kingdom. Adviser <a href="http://www.hairer.org">Martin Hairer</a></dd>
 		<dt>2010 - 2012 &nbsp;&nbsp;&nbsp; <strong>M.Sc. in Mathematics</strong></dt>
-			<dd><em>University of Bonn</em>, Germany. Adviser <a href="https://wt.iam.uni-bonn.de/bovier/home/">Prof. Anton Bovier</a></dd>
+			<dd><em>University of Bonn</em>, Germany. Adviser <a href="https://wt.iam.uni-bonn.de/bovier/home/">Anton Bovier</a></dd>
 		<dt>2005 - 2010 &nbsp;&nbsp;&nbsp; <strong>Diploma in Applied Mathematics</strong></dt>
-			<dd><em>Belarus State University</em>, Belarus. Adviser <a href="http://apmi.bsu.by/en/staff/yuriy-kharin.html">Prof. Yuriy Kharin</a></dd>
+			<dd><em>Belarus State University</em>, Belarus. Adviser <a href="http://apmi.bsu.by/en/staff/yuriy-kharin.html">Yuriy Kharin</a></dd>
 	</dl>
 </fieldset>
