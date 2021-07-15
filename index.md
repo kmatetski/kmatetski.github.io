@@ -9,7 +9,7 @@ Office 517, MC 4404 <br/>
 2990 Broadway, New York, NY 10027 <br/>
 Phone: 212-854-4186 <br/>
 Fax: 212-854-8962 <br/>
-Email: matetski@math.columbia.edu <br/>
+Email: <matetski@math.columbia.edu>
 
 ### About me
 
