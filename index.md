@@ -28,26 +28,6 @@ of Markov stochastic sequences"_, 2009
 
 ### Education and academic work (download full <a href="media/CV/Matetski_CV.pdf">CV</a>)
 
-  <fieldset>
-  <legend>Personalia:</legend>
-  <table>
-    <tr>
-      <td>Author  </td>
-      <td>Robert Heinlein</td>
-    </tr>
-    <tr>
-      <td>Book </td>
-      <td>Stranger in a Strange Land</td>
-    </tr>
-    <tr>
-      <td>ISBN Number  </td>
-      <td>9780425058336  </td>
-    </tr>
-  </table>
-</fieldset>
-
-...
-
 <fieldset>
 					<dl>
 						<dt>2018 - now</dt>
@@ -76,4 +56,4 @@ of Markov stochastic sequences"_, 2009
 							<em>Belarus State University</em>, Belarus.
 		          Adviser <a href="http://apmi.bsu.by/en/staff/yuriy-kharin.html">Prof. Yuriy Kharin</a>
 						</dd>
-</fieldset>
+<fieldset/>
