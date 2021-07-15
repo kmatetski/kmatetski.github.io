@@ -19,7 +19,7 @@ Email: <matetski@math.columbia.edu>
 
 ### Awards
 - [Bernoulli Society New Researcher Award 2022](http://www.bernoulli-society.org/news/37-general-announcement/324-bernoulli-society-new-researcher-award-2023)
-- NSF Grant $149k ([DMS-1953859](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1953859&HistoricalAwards=false)), 2020
+- NSF Grant _"The Kardar-Parisi-Zhang universality of random growing interfaces"_ ([DMS-1953859](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1953859&HistoricalAwards=false)), 2020
 - Chancellor’s International Scholarship, University of Warwick, 2012 - 2016
 - Scholarship of the state North Rhine-Westphalia, University of Bonn, 2010 - 2012
 - Collaborative research grant of the Belarusian State University for the project _"Statistical analysis and forecasting
@@ -42,3 +42,30 @@ of Markov stochastic sequences"_, 2009
 			<dd><em>Belarus State University</em>, Belarus. Adviser <a href="http://apmi.bsu.by/en/staff/yuriy-kharin.html">Yuriy Kharin</a></dd>
 	</dl>
 </fieldset>
+
+### Publications
+
+See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en)
+
+1. TASEP and generalizations: Method for exact solution, K.Matetski, D.Remenik, in preparation (2021)
+1. Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, in preparation (2021)
+1. The KPZ fixed point, K.Matetski, J.Quastel, D.Remenik, to appear in Acta Mathematica (2021)
+1. Characterization of Brownian Gibbsian line ensembles, E.Dimitrov, K.Matetski, to appear in Annals
+of Probability, 2021
+1. Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness,
+I.Corwin, A.Hammond, M.Hegde, K.Matetski, arXiv:2101.04205, 2021
+1. Stochastic PDE limit of the dynamic ASEP, I.Corwin, P.Ghosal, K.Matetski, Communications in
+Mathematical Physics, 2020
+1. From the totally asymmetric simple exclusion process to the KPZ fixed point, J.Quastel, K.Matetski,
+Random matrices, Vol. 26, IAS/Park City Mathematical Series, American Mathematical Society,
+2019
+1. Martingale-driven approximations of singular stochastic PDEs, K.Matetski, arXiv:1808.09429, 2018
+1. Space-time discrete KPZ equation, G.Cannizzaro, K.Matetski, Communications in Mathematical
+Physics, 358(2), 2018
+1. Discretisations of rough stochastic PDEs, M.Hairer, K.Matetski, Annals of Probability, 46(3), 2018
+1. Optimal rate of convergence of the stochastic Burgers-type equations, M.Hairer, K.Matetski, Stochastic
+PDEs: Analysis and Computations, 3, no. 4, 2015
+1. On risk estimation of homogeneous  nite Markov chains with unknown parameters (2010),
+with Yu.Kharin, Vestnik of Belarusian State University
+1. On forecasting of discrete time series based on Markov chains (2008), with Yu.Kharin, A.Pyatlitski,
+scienti c works compilation \Economics, modeling, forecasting", Minsk
