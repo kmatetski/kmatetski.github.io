@@ -22,7 +22,7 @@ Email: <matetski@math.columbia.edu>
 - NSF Grant $149k ([DMS-1953859](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1953859&HistoricalAwards=false)), 2020
 - Chancellor’s International Scholarship, University of Warwick, 2012 - 2016
 - Scholarship of the state North Rhine-Westphalia, University of Bonn, 2010 - 2012
-- Research grant of the Belarusian State University for the project _"Statistical analysis and forecasting
+- Collaborative research grant of the Belarusian State University for the project _"Statistical analysis and forecasting
 of Markov stochastic sequences"_, 2009
 - Scholarship of Priorbank (Raiffeisen Zentralbank Group) for the best students in Mathematics and Economics, Belarus, 2008
 
