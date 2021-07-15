@@ -2,7 +2,7 @@
 
 Joseph F. Ritt Assistant Professor, Columbia University
 
-#### Contact
+### Contact
 
 Columbia University, Department of Mathematics <br/>
 Office 517, MC 4404 <br/>
