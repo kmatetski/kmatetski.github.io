@@ -13,7 +13,7 @@ author: Konstantin Matetski
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /me_new.png.
+title-img: me_new.png
 
 # --- Navigation bar --- #
 
