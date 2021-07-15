@@ -30,9 +30,8 @@ of Markov stochastic sequences"_, 2009
 
 <fieldset>
 					<dl>
-						<dt>2018 - now</dt>
+						<dt>2018 - now &nbsp;&nbsp; <strong>Ritt Assistant Professor</strong></dt>
 						<dd>
-							<strong>Ritt Assistant Professor</strong>,<br/>
 							<em>Columbia University</em>, USA
 						</dd>
 		        <dt>2016 - 2018</dt>
