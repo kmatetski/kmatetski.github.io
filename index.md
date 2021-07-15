@@ -17,4 +17,4 @@ I am a Ritt Assistant Professor at the Mathematics Department of Columbia Univer
 
 - stochastic PDEs, including regularity structures and rough paths,
 - integrable probability and the KPZ universality,
-- interacting particle systems
+- limiting behavior of interacting particle systems
