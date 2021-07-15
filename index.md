@@ -13,7 +13,7 @@ Email: <matetski@math.columbia.edu>
 
 ### About me
 
-I am a Ritt Assistant Professor at the Mathematics Department of Columbia University. I obtained Ph.D. in 2016 at the University of Warwick, UK. My research interests are
+I am a Ritt Assistant Professor at the Mathematics Department of Columbia University. I obtained my Ph.D. in 2016 at the University of Warwick, UK. My research interests are
 
 - stochastic PDEs, including regularity structures and rough paths,
 - integrable probability and the KPZ universality,
