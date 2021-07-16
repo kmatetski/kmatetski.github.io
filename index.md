@@ -13,8 +13,8 @@ Email: <matetski@math.columbia.edu>
 
 ### Research interests
 
-- stochastic PDEs, including regularity structures and rough paths,
-- integrable probability and the KPZ universality,
+- stochastic PDEs, including regularity structures and rough paths
+- integrable probability and the KPZ universality
 - limiting behavior of interacting particle systems
 
 ### Awards
