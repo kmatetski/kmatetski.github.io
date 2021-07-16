@@ -63,8 +63,10 @@ Random matrices, Vol. 26, IAS/Park City Mathematical Series, American Mathematic
 1. Space-time discrete KPZ equation, G.Cannizzaro, K.Matetski, Communications in Mathematical
 Physics, 358(2), 2018
 1. Discretisations of rough stochastic PDEs, M.Hairer, K.Matetski, Annals of Probability, 46(3), 2018
+1. Ph.D. thesis, Discretisations of rough stochastic partial differential equations, 2016, [link](http://wrap.warwick.ac.uk/81460/)
 1. Optimal rate of convergence of the stochastic Burgers-type equations, M.Hairer, K.Matetski, Stochastic
 PDEs: Analysis and Computations, 3, no. 4, 2015
+1. Master thesis, Convergence of infinite dimensional stochastic processes, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
 1. On risk estimation of homogeneous  nite Markov chains with unknown parameters (2010),
 with Yu.Kharin, Vestnik of Belarusian State University
 1. On forecasting of discrete time series based on Markov chains (2008), with Yu.Kharin, A.Pyatlitski,
