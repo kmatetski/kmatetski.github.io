@@ -59,7 +59,7 @@ Mathematical Physics, 2020, [arXiv](https://arxiv.org/abs/1906.04069)
 1. [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/), J.Quastel, K.Matetski,
 Random matrices, Vol. 26, IAS/Park City Mathematical Series, American Mathematical Society,
 2019, [arXiv](https://arxiv.org/abs/1710.02635)
-1. [Martingale-driven approximations of singular stochastic PDEs], K.Matetski, 2018, [arXiv](arXiv:1808.09429)
+1. Martingale-driven approximations of singular stochastic PDEs, K.Matetski, 2018, [arXiv](arXiv:1808.09429)
 1. [Space-time discrete KPZ equation](https://link.springer.com/article/10.1007/s00220-018-3089-9), G.Cannizzaro, K.Matetski, Communications in Mathematical
 Physics, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)
 1. [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full), M.Hairer, K.Matetski, Annals of Probability, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937)
