@@ -18,7 +18,7 @@ Email: <matetski@math.columbia.edu>
 - limiting behavior of interacting particle systems
 
 ### Awards
-- [Bernoulli Society New Researcher Award 2022](http://www.bernoulli-society.org/news/37-general-announcement/324-bernoulli-society-new-researcher-award-2023)
+- [Bernoulli Society New Researcher Award 2022](http://www.bernoulli-society.org/news/37-general-announcement/324-bernoulli-society-new-researcher-award-2023). The Award is to be announced at the 42nd Conference on Stochastic Processes and their Applications to be held in Wuhan, China, June 27 - July 1, 2022
 - NSF Grant _"The Kardar-Parisi-Zhang universality of random growing interfaces"_ ([DMS-1953859](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1953859&HistoricalAwards=false)), 2020
 - Chancellor’s International Scholarship, University of Warwick, 2012 - 2016
 - Scholarship of the state North Rhine-Westphalia, University of Bonn, 2010 - 2012
