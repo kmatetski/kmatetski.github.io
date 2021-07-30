@@ -53,7 +53,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 1. Characterization of Brownian Gibbsian line ensembles, E.Dimitrov, K.Matetski, to appear in Annals
 of Probability, 2021, [arXiv](https://arxiv.org/abs/2002.00684)
 1. Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness,
-I.Corwin, A.Hammond, M.Hegde, K.Matetski, arXiv:2101.04205, 2021, [arXiv](https://arxiv.org/abs/2101.04205)
+I.Corwin, A.Hammond, M.Hegde, K.Matetski, 2021, [arXiv](https://arxiv.org/abs/2101.04205)
 1. [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, Communications in
 Mathematical Physics, 2020, [arXiv](https://arxiv.org/abs/1906.04069)
 1. [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/), J.Quastel, K.Matetski,
