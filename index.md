@@ -67,6 +67,5 @@ Physics, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)
 1. [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5), M.Hairer, K.Matetski, Stochastic, [arXiv](https://arxiv.org/abs/1504.05134)
 PDEs: Analysis and Computations, 3, no. 4, 2015
 1. Master thesis, Convergence of infinite dimensional stochastic processes, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
-1. On risk estimation of homogeneous finite Markov chains with unknown parameters,
-with Yu.Kharin, Vestnik of Belarusian State University, 2010
-1. On forecasting of discrete time series based on Markov chains, with Yu.Kharin, A.Pyatlitski, "Economics, modeling, forecasting", 2008
+1. On risk estimation of homogeneous finite Markov chains with unknown parameters, Yu.Kharin, K.Matetski, Vestnik of Belarusian State University, 2010
+1. On forecasting of discrete time series based on Markov chains, Yu.Kharin, K.Matetski, A.Pyatlitski, "Economics, modeling, forecasting", 2008
