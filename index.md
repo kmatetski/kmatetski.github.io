@@ -47,27 +47,26 @@ of Markov stochastic sequences"_, 2009
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en)
 
-1. TASEP and generalizations: Method for exact solution, K.Matetski, D.Remenik, in preparation (2021)
-1. Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, in preparation (2021)
-1. The KPZ fixed point, K.Matetski, J.Quastel, D.Remenik, to appear in Acta Mathematica (2021)
+1. Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, in preparation, 2021
+1. TASEP and generalizations: Method for exact solution, K.Matetski, D.Remenik, 2021, [arXiv](https://arxiv.org/abs/2107.07984)
+1. The KPZ fixed point, K.Matetski, J.Quastel, D.Remenik, to appear in Acta Mathematica, 2021, [arXiv](https://arxiv.org/abs/1701.00018)
 1. Characterization of Brownian Gibbsian line ensembles, E.Dimitrov, K.Matetski, to appear in Annals
-of Probability, 2021
+of Probability, 2021, [arXiv](https://arxiv.org/abs/2002.00684)
 1. Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness,
-I.Corwin, A.Hammond, M.Hegde, K.Matetski, arXiv:2101.04205, 2021
-1. Stochastic PDE limit of the dynamic ASEP, I.Corwin, P.Ghosal, K.Matetski, Communications in
-Mathematical Physics, 2020
-1. From the totally asymmetric simple exclusion process to the KPZ fixed point, J.Quastel, K.Matetski,
+I.Corwin, A.Hammond, M.Hegde, K.Matetski, arXiv:2101.04205, 2021, [arXiv](https://arxiv.org/abs/2101.04205)
+1. [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, Communications in
+Mathematical Physics, 2020, [arXiv](https://arxiv.org/abs/1906.04069)
+1. [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/), J.Quastel, K.Matetski,
 Random matrices, Vol. 26, IAS/Park City Mathematical Series, American Mathematical Society,
-2019
-1. Martingale-driven approximations of singular stochastic PDEs, K.Matetski, arXiv:1808.09429, 2018
-1. Space-time discrete KPZ equation, G.Cannizzaro, K.Matetski, Communications in Mathematical
-Physics, 358(2), 2018
-1. Discretisations of rough stochastic PDEs, M.Hairer, K.Matetski, Annals of Probability, 46(3), 2018
+2019, [arXiv](https://arxiv.org/abs/1710.02635)
+1. [Martingale-driven approximations of singular stochastic PDEs], K.Matetski, [arXiv](arXiv:1808.09429), 2018
+1. [Space-time discrete KPZ equation](https://link.springer.com/article/10.1007/s00220-018-3089-9), G.Cannizzaro, K.Matetski, Communications in Mathematical
+Physics, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)
+1. [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full), M.Hairer, K.Matetski, Annals of Probability, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937)
 1. Ph.D. thesis, Discretisations of rough stochastic partial differential equations, 2016, [link](http://wrap.warwick.ac.uk/81460/)
-1. Optimal rate of convergence of the stochastic Burgers-type equations, M.Hairer, K.Matetski, Stochastic
+1. [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5), M.Hairer, K.Matetski, Stochastic, [arXiv](https://arxiv.org/abs/1504.05134)
 PDEs: Analysis and Computations, 3, no. 4, 2015
 1. Master thesis, Convergence of infinite dimensional stochastic processes, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
-1. On risk estimation of homogeneous finite Markov chains with unknown parameters (2010),
-with Yu.Kharin, Vestnik of Belarusian State University
-1. On forecasting of discrete time series based on Markov chains (2008), with Yu.Kharin, A.Pyatlitski,
-scientific works compilation "Economics, modeling, forecasting", Minsk
+1. On risk estimation of homogeneous finite Markov chains with unknown parameters,
+with Yu.Kharin, Vestnik of Belarusian State University, 2010
+1. On forecasting of discrete time series based on Markov chains, with Yu.Kharin, A.Pyatlitski, "Economics, modeling, forecasting", 2008
