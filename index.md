@@ -24,8 +24,9 @@ Email: <matetski@msu.edu>
 of Markov stochastic sequences"_, 2009
 - Scholarship of Priorbank (Raiffeisen Zentralbank Group) for the best students in Mathematics and Economics, Belarus, 2008
 
-### Education and academic work (download full <a href="/Matetski_CV.pdf">CV</a>)
+### Education and academic work
 
+<!-- (download full <a href="/Matetski_CV.pdf">CV</a>) -->
 <fieldset>
 	<dl>
 		<dt>2022 - now &nbsp;&nbsp;&nbsp; <strong>Assistant Professor</strong></dt>
