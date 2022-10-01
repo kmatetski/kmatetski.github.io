@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-#remote_theme: kralizek/minimal-mistakes
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 title: Konstantin Matetski
 logo: me_new.png
 #
