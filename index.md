@@ -53,7 +53,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 1. [TASEP and generalizations: Method for exact solution](https://link.springer.com/article/10.1007/s00440-022-01129-w), K.Matetski, D.Remenik, Probab. Theory Relat. Fields, 2022, [arXiv](https://arxiv.org/abs/2107.07984)
 1. [The KPZ fixed point](https://www.intlpress.com/site/pub/pages/journals/items/acta/content/vols/0227/0001/a003/index.php), K.Matetski, J.Quastel, D.Remenik, Acta Math., Vol. 227 (1), 2021, [arXiv](https://arxiv.org/abs/1701.00018)
 1. [Characterization of Brownian Gibbsian line ensembles](https://projecteuclid.org/journals/annals-of-probability/volume-49/issue-5/Characterization-of-Brownian-Gibbsian-line-ensembles/10.1214/21-AOP1513.short), E.Dimitrov, K.Matetski, Ann. Probab. 49(5), 2021, [arXiv](https://arxiv.org/abs/2002.00684)
-1. [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, Comm. Math. Phys., 380, 2020, [arXiv](https://arxiv.org/abs/1906.04069)
+1. [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, Comm. Math. Phys., 380(3), 2020, [arXiv](https://arxiv.org/abs/1906.04069)
 1. [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/), J.Quastel, K.Matetski, Random matrices, Vol. 26, IAS/Park City Mathematical Series, American Mathematical Society,
 2019, [arXiv](https://arxiv.org/abs/1710.02635)
 1. Martingale-driven approximations of singular stochastic PDEs, K.Matetski, 2018, [arXiv](arXiv:1808.09429)
