@@ -17,9 +17,8 @@ logo: me_new.png
 #
 # --- Navigation bar --- #
 #
-navbar-links:
-  Contact: "aboutme"
-  Research interests:
-  Awards:
-  Publications:
-  Talks:
+navigation:
+  - name: Contact
+    link: ./index.html
+  - name: Research
+    link: ./another-page.html
