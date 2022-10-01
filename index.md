@@ -53,16 +53,14 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 1. [TASEP and generalizations: Method for exact solution](https://link.springer.com/article/10.1007/s00440-022-01129-w), K.Matetski, D.Remenik, Probab. Theory Relat. Fields, 2022, [arXiv](https://arxiv.org/abs/2107.07984)
 1. [The KPZ fixed point](https://www.intlpress.com/site/pub/pages/journals/items/acta/content/vols/0227/0001/a003/index.php), K.Matetski, J.Quastel, D.Remenik, Acta Math., Vol. 227 (1), 2021, [arXiv](https://arxiv.org/abs/1701.00018)
 1. [Characterization of Brownian Gibbsian line ensembles](https://projecteuclid.org/journals/annals-of-probability/volume-49/issue-5/Characterization-of-Brownian-Gibbsian-line-ensembles/10.1214/21-AOP1513.short), E.Dimitrov, K.Matetski, Ann. Probab. 49(5), 2021, [arXiv](https://arxiv.org/abs/2002.00684)
-1. [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, Communications in
-Mathematical Physics, 2020, [arXiv](https://arxiv.org/abs/1906.04069)
+1. [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, Comm. Math. Phys., 2020, [arXiv](https://arxiv.org/abs/1906.04069)
 1. [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/), J.Quastel, K.Matetski, Random matrices, Vol. 26, IAS/Park City Mathematical Series, American Mathematical Society,
 2019, [arXiv](https://arxiv.org/abs/1710.02635)
 1. Martingale-driven approximations of singular stochastic PDEs, K.Matetski, 2018, [arXiv](arXiv:1808.09429)
-1. [Space-time discrete KPZ equation](https://link.springer.com/article/10.1007/s00220-018-3089-9), G.Cannizzaro, K.Matetski, Communications in Mathematical
-Physics, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)
-1. [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full), M.Hairer, K.Matetski, Annals of Probability, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937)
+1. [Space-time discrete KPZ equation](https://link.springer.com/article/10.1007/s00220-018-3089-9), G.Cannizzaro, K.Matetski, Comm. Math. Phys., 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)
+1. [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full), M.Hairer, K.Matetski, Ann. Probab., 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937)
 1. Ph.D. thesis, Discretisations of rough stochastic partial differential equations, 2016, [link](http://wrap.warwick.ac.uk/81460/)
-1. [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5), M.Hairer, K.Matetski, Stochastic, PDEs: Analysis and Computations, 3, no. 4, 2015, [arXiv](https://arxiv.org/abs/1504.05134)
+1. [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5), M.Hairer, K.Matetski, Stochastic, Stoch. Partial Differ. Equ. Anal. Comput., 3, no. 4, 2015, [arXiv](https://arxiv.org/abs/1504.05134)
 1. Master thesis, Convergence of infinite dimensional stochastic processes, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
 1. On risk estimation of homogeneous finite Markov chains with unknown parameters, Yu.Kharin, K.Matetski, Vestnik of Belarusian State University, 2010
 1. On forecasting of discrete time series based on Markov chains, Yu.Kharin, K.Matetski, A.Pyatlitski, "Economics, modeling, forecasting", 2008
