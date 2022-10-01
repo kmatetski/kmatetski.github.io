@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
-#remote_theme: kralizek/minimal-mistakes
-#logo: me_new.png
+remote_theme: kralizek/minimal-mistakes
+logo: me_new.png
 #
 # --- Logo --- #
 #
