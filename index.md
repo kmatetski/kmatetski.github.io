@@ -1,4 +1,4 @@
-## Konstantin Matetski
+### Konstantin Matetski
 
 Assistant Professor, Michigan State University
 
