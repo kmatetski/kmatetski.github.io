@@ -1,7 +1,6 @@
 #theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
 remote_theme: kralizek/minimal-mistakes
-#title: Konstantin Matetski
 logo: me_new.png
 #
 # --- Logo --- #
@@ -16,25 +15,6 @@ logo: me_new.png
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: ./me_new.png
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Kralizek"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/renatogolia/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Kralizek"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/82540"
 #
 # --- Navigation bar --- #
 #
-navigation:
-  - name: Contact
-    link: ./index.html
-  - name: Research
-    link: ./another-page.html
