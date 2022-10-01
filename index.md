@@ -5,7 +5,7 @@ Assistant Professor, Michigan State University
 ### Contact
 
 Michigan State University, Department of Mathematics <br/>
-Office C212, Wells Hall <br/>
+Office C324, Wells Hall <br/>
 619 Red Cedar Road <br/>
 East Lansing, MI 48824 <br/>
 Email: <matetski@msu.edu>
