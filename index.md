@@ -1,24 +1,22 @@
 ## Konstantin Matetski
 
-Joseph F. Ritt Assistant Professor, Columbia University
+Assistant Professor, Michigan State University
 
 ### Contact
 
-Columbia University, Department of Mathematics <br/>
-Office 517, MC 4404 <br/>
-2990 Broadway, New York, NY 10027 <br/>
-Phone: 212-854-4186 <br/>
-Fax: 212-854-8962 <br/>
-Email: <matetski@math.columbia.edu>
+Michigan State University, Department of Mathematics <br/>
+Office C212, Wells Hall <br/>
+619 Red Cedar Road <br/>
+East Lansing, MI 48824 <br/>
+Email: <matetski@msu.edu>
 
 ### Research interests
 
 - stochastic PDEs, including regularity structures and rough paths
 - integrable probability and the KPZ universality
-- limiting behavior of interacting particle systems
 
 ### Awards
-- [Bernoulli Society New Researcher Award 2022](http://www.bernoulli-society.org/news/37-general-announcement/324-bernoulli-society-new-researcher-award-2023). The Award is to be announced at the 42nd Conference on Stochastic Processes and their Applications to be held in Wuhan, China, June 27 - July 1, 2022
+- [Bernoulli Society New Researcher Award 2022](http://www.bernoulli-society.org/news/37-general-announcement/324-bernoulli-society-new-researcher-award-2023)
 - NSF Grant _"The Kardar-Parisi-Zhang universality of random growing interfaces"_ ([DMS-1953859](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1953859&HistoricalAwards=false)), 2020
 - Chancellor’s International Scholarship, University of Warwick, 2012 - 2016
 - Scholarship of the state North Rhine-Westphalia, University of Bonn, 2010 - 2012
@@ -30,7 +28,9 @@ of Markov stochastic sequences"_, 2009
 
 <fieldset>
 	<dl>
-		<dt>2018 - now &nbsp;&nbsp;&nbsp; <strong>Ritt Assistant Professor</strong></dt>
+		<dt>2022 - now &nbsp;&nbsp;&nbsp; <strong>Assistant Professor</strong></dt>
+			<dd> <em>Michigan State University</em>, USA </dd>
+		<dt>2018 - 2022 &nbsp;&nbsp;&nbsp; <strong>Ritt Assistant Professor</strong></dt>
 			<dd> <em>Columbia University</em>, USA </dd>
 		<dt>2016 - 2018 &nbsp;&nbsp;&nbsp; <strong>Postdoctoral fellow</strong></dt>
 			<dd><em>University of Toronto</em>, Canada. Worked with <a href="http://www.math.toronto.edu/quastel/">Jeremy Quastel</a></dd>
@@ -47,9 +47,10 @@ of Markov stochastic sequences"_, 2009
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en)
 
-1. Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, in preparation, 2021
-1. TASEP and generalizations: Method for exact solution, K.Matetski, D.Remenik, 2021, [arXiv](https://arxiv.org/abs/2107.07984)
-1. The KPZ fixed point, K.Matetski, J.Quastel, D.Remenik, to appear in Acta Mathematica, 2021, [arXiv](https://arxiv.org/abs/1701.00018)
+1. Polynuclear growth and the Toda lattice, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
+1. Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, 2021, [arXiv](https://arxiv.org/abs/2201.08807)
+1. TASEP and generalizations: Method for exact solution, K.Matetski, D.Remenik, Probab. Theory Relat. Fields, 2022, [arXiv](https://arxiv.org/abs/2107.07984)
+1. The KPZ fixed point, K.Matetski, J.Quastel, D.Remenik, Acta Math., Vol. 227 (1), 2021, [arXiv](https://arxiv.org/abs/1701.00018)
 1. Characterization of Brownian Gibbsian line ensembles, E.Dimitrov, K.Matetski, to appear in Annals
 of Probability, 2021, [arXiv](https://arxiv.org/abs/2002.00684)
 1. Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness,
