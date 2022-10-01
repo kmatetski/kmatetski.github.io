@@ -65,3 +65,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 1. Master thesis, Convergence of infinite dimensional stochastic processes, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
 1. On risk estimation of homogeneous finite Markov chains with unknown parameters, Yu.Kharin, K.Matetski, Vestnik of Belarusian State University, 2010
 1. On forecasting of discrete time series based on Markov chains, Yu.Kharin, K.Matetski, A.Pyatlitski, "Economics, modeling, forecasting", 2008
+
+### Talks
+
+TBA
