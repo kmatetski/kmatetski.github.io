@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-#theme: minimal-mistakes-jekyll
-#remote_theme: kralizek/minimal-mistakes
+title: Konstantin Matetski
+description: Assistant Professor at Michigan State University
 logo: me_new.png
+show_downloads: false
 #
 # --- Logo --- #
 #
