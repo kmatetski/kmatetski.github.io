@@ -1,3 +1,7 @@
+## Konstantin Matetski
+
+Assistant Professor, Michigan State University
+
 ### Contact
 
 Michigan State University, Department of Mathematics <br/>
