@@ -42,9 +42,21 @@ of Markov stochastic sequences"_, 2009
 
 ### Teaching
 
-# Michigan State University
+#### Michigan State University
 
 Fall 2022: Real Analysis 1 (MTH-320), [syllabus](./files/mth320_syllabus_fs22.pdf)
+
+#### Columbia University
+
+TBA
+
+#### University of Toronto
+
+TBA
+
+#### Univeristy of Warwick
+
+TBA
 
 ### Publications
 
