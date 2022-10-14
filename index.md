@@ -45,7 +45,7 @@ of Markov stochastic sequences"_, 2009
 <fieldset>
 	<dl>
 		<dt><strong>Michigan State University</strong></dt>
-			<dd> <em>Fall 2022: Real Analysis 1 (MTH-320), [syllabus](./files/mth320_syllabus_fs22.pdf)</em> </dd>
+			<dd> -- Fall 2022: Real Analysis 1 (MTH-320), [syllabus](./files/mth320_syllabus_fs22.pdf) </dd>
 	</dl>
 </fieldset>
 
