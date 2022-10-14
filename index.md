@@ -46,7 +46,7 @@ of Markov stochastic sequences"_, 2009
 
 Fall 2022: Real Analysis 1 (MTH-320), [syllabus](./files/mth320_syllabus_fs22.pdf)
 
-#### Columbia University
+<!--#### Columbia University
 
 TBA
 
@@ -56,7 +56,7 @@ TBA
 
 #### Univeristy of Warwick
 
-TBA
+TBA-->
 
 ### Publications
 
