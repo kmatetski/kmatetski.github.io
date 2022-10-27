@@ -85,5 +85,5 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 
 ### Talks
 
-- 10/19/2022 -- Probability seminar, Michigan State University
-- 10/5/2022 -- Analysis \& PDEs seminar, Michigan State University
+- 10/19/2022 - Probability seminar, Michigan State University
+- 10/5/2022 - Analysis \& PDEs seminar, Michigan State University
