@@ -63,7 +63,7 @@ TBA-->
 
 ### Publications
 
-See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en)
+See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en) and [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
 - Polynuclear growth and the Toda lattice, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
 - Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807)
