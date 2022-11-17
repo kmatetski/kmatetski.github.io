@@ -90,6 +90,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 
 ### Talks
 
+- 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
 - 11/3/2022 - Differential equations seminar, University of Michigan
 - 10/19/2022 - Probability seminar, Michigan State University
 - 10/5/2022 - Analysis & PDEs seminar, Michigan State University
