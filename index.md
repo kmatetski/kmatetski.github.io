@@ -1,6 +1,6 @@
 Welcome to my web-page! 
 
-I am currently an Assistant Professor in Mathematics at Michigan State Univeristy, doing research in Probability and Stachastics. You can find more information below.
+I am currently an Assistant Professor in Mathematics at Michigan State Univeristy, doing research in Probability and Stochastics. You can find more information below.
 
 ### Contact
 
