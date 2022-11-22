@@ -90,6 +90,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 
 ### Talks
 
+- 11/22/2022 - Graduate seminar, AMS Graduate Student Chapter, Michigan State University
 - 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
 - 11/3/2022 - Differential equations seminar, University of Michigan
 - 10/19/2022 - Probability seminar, Michigan State University
