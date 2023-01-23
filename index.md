@@ -21,7 +21,7 @@ Email: <matetski@msu.edu>
 <!-- (download full <a href="/Matetski_CV.pdf">CV</a>) -->
 <fieldset>
 	<dl>
-		<dt>2022 - now &nbsp;&nbsp;&nbsp; <strong>Assistant Professor</strong></dt>
+		<dt>2022 - now &nbsp;&nbsp;&nbsp; <strong>Assistant Professor (tenure track)</strong></dt>
 			<dd> <em>Michigan State University</em>, USA </dd>
 		<dt>2018 - 2022 &nbsp;&nbsp;&nbsp; <strong>Ritt Assistant Professor</strong></dt>
 			<dd> <em>Columbia University</em>, USA </dd>
