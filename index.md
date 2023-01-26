@@ -71,9 +71,9 @@ TBA-->
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en) and [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
-- The strong Feller property of the open KPZ equation, A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466)
-- Polynuclear growth and the Toda lattice, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
-- Directed mean curvature flow in noisy environment, M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807)
+- __The strong Feller property of the open KPZ equation__, A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466)
+- __Polynuclear growth and the Toda lattice__, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
+- __Directed mean curvature flow in noisy environment__, M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807)
 - [Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-28/issue-none/Exceptional-times-when-the-KPZ-fixed-point-violates-Johanssons-conjecture/10.1214/22-EJP898.full), I.Corwin, A.Hammond, M.Hegde, K.Matetski, _Electron. J. Probab._, 28: 1-81 (2023), [arXiv](https://arxiv.org/abs/2101.04205)
 - [TASEP and generalizations: Method for exact solution](https://link.springer.com/article/10.1007/s00440-022-01129-w), K.Matetski, D.Remenik, _Probab. Theory Relat. Fields_, 185.1-2, 2023, [arXiv](https://arxiv.org/abs/2107.07984)
 - [The KPZ fixed point](https://www.intlpress.com/site/pub/pages/journals/items/acta/content/vols/0227/0001/a003/index.php), K.Matetski, J.Quastel, D.Remenik, _Acta Math._, Vol. 227 (1), 2021, [arXiv](https://arxiv.org/abs/1701.00018)
@@ -86,9 +86,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 - [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full), M.Hairer, K.Matetski, _Ann. Probab._, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937)
 - Ph.D. thesis, Discretisations of rough stochastic partial differential equations, 2016, [link](http://wrap.warwick.ac.uk/81460/)
 - [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5), M.Hairer, K.Matetski, _Stoch. Partial Differ. Equ. Anal. Comput._, 3(4), 2015, [arXiv](https://arxiv.org/abs/1504.05134)
-- Master thesis, Convergence of infinite dimensional stochastic processes, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
-- On risk estimation of homogeneous finite Markov chains with unknown parameters, Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010
-- On forecasting of discrete time series based on Markov chains, Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008
+- Master thesis, __Convergence of infinite dimensional stochastic processes__, 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172)
+- __On risk estimation of homogeneous finite Markov chains with unknown parameters__, Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010
+- __On forecasting of discrete time series based on Markov chains__, Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008
 
 ### Talks
 
