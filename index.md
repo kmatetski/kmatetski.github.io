@@ -91,7 +91,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 - __On risk estimation of homogeneous finite Markov chains with unknown parameters__, Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010
 - __On forecasting of discrete time series based on Markov chains__, Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008
 
-### Talks
+### Recent talks
 
 - 11/22/2022 - Graduate seminar, AMS Graduate Student Chapter, Michigan State University
 - 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
