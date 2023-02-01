@@ -71,6 +71,7 @@ TBA-->
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en) and [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
+- __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__, K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739)
 - __The strong Feller property of the open KPZ equation__, A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466)
 - __Polynuclear growth and the Toda lattice__, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
 - __Directed mean curvature flow in noisy environment__, M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807)
