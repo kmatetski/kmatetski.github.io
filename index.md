@@ -71,6 +71,8 @@ TBA-->
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
+- __The dynamical Ising-Kac model in 3D converges to Φ^4_3__, P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](arXiv:2303.10242)
+- __Martingale-driven integrals and singular SPDEs__, P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](arXiv:2303.10245)
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__, K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739)
 - __The strong Feller property of the open KPZ equation__, A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466)
 - __Polynuclear growth and the Toda lattice__, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
@@ -82,7 +84,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 - [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y), I.Corwin, P.Ghosal, K.Matetski, _Comm. Math. Phys._, 380(3), 2020, [arXiv](https://arxiv.org/abs/1906.04069)
 - [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/), J.Quastel, K.Matetski, _Random matrices, Vol. 26, IAS/Park City Mathematical Series_, American Mathematical Society,
 2019, [arXiv](https://arxiv.org/abs/1710.02635)
-- __Martingale-driven approximations of singular stochastic PDEs__, K.Matetski, 2018, [arXiv](arXiv:1808.09429)
 - [Space-time discrete KPZ equation](https://link.springer.com/article/10.1007/s00220-018-3089-9), G.Cannizzaro, K.Matetski, _Comm. Math. Phys._, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)
 - [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full), M.Hairer, K.Matetski, _Ann. Probab._, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937)
 - Ph.D. thesis, __Discretisations of rough stochastic partial differential equations__, 2016, [link](http://wrap.warwick.ac.uk/81460/)
