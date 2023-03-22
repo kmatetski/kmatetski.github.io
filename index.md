@@ -71,8 +71,8 @@ TBA-->
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
-- __The dynamical Ising-Kac model in 3D converges to Φ^4_3__, P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](arXiv:2303.10242)
-- __Martingale-driven integrals and singular SPDEs__, P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](arXiv:2303.10245)
+- __The dynamical Ising-Kac model in 3D converges to Φ^4_3__, P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10242)
+- __Martingale-driven integrals and singular SPDEs__, P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10245)
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__, K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739)
 - __The strong Feller property of the open KPZ equation__, A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466)
 - __Polynuclear growth and the Toda lattice__, K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643)
