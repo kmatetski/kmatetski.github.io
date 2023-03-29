@@ -67,6 +67,15 @@ TBA
 
 TBA-->
 
+### Recent talks
+
+- 21/2/2023 - Probability seminar, Politechnika Warszawska
+- 11/22/2022 - Graduate seminar, AMS Graduate Student Chapter, Michigan State University
+- 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
+- 11/3/2022 - Differential equations seminar, University of Michigan
+- 10/19/2022 - Probability seminar, Michigan State University
+- 10/5/2022 - Analysis & PDEs seminar, Michigan State University
+
 ### Publications
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
@@ -127,12 +136,3 @@ Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010 <br />
 
 - __On forecasting of discrete time series based on Markov chains__ <br />
 Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008 <br />
-
-### Recent talks
-
-- 21/2/2023 - Probability seminar, Politechnika Warszawska
-- 11/22/2022 - Graduate seminar, AMS Graduate Student Chapter, Michigan State University
-- 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
-- 11/3/2022 - Differential equations seminar, University of Michigan
-- 10/19/2022 - Probability seminar, Michigan State University
-- 10/5/2022 - Analysis & PDEs seminar, Michigan State University
