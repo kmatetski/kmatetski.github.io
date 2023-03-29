@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-title:
+title: Konstantin Matetski
 logo: me_new.png
+show_downloads: false
 #
 # --- Logo --- #
 #
@@ -17,10 +18,3 @@ logo: me_new.png
 #
 # --- Navigation bar --- #
 #
-#navbar-links:
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
-  
