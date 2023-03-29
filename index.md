@@ -72,10 +72,10 @@ TBA-->
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
 - __The dynamical Ising-Kac model in 3D converges to Φ^4_3__ <br />
-P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10242) <br /> <br />
+P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10242) <br />
 
 - __Martingale-driven integrals and singular SPDEs__ <br />
-P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10245) <br /><br />
+P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10245) <br />
 
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__ <br />
 K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br /><br />
