@@ -78,55 +78,55 @@ P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.1024
 P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10245) <br />
 
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__ <br />
-K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br /><br />
+K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
 
 - __The strong Feller property of the open KPZ equation__ <br />
-A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br /><br />
+A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
 
 - __Polynuclear growth and the Toda lattice__ <br />
-K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br /><br />
+K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
 - __Directed mean curvature flow in noisy environment__ <br />
-M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807) <br /><br />
+M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807) <br />
 
 - [Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-28/issue-none/Exceptional-times-when-the-KPZ-fixed-point-violates-Johanssons-conjecture/10.1214/22-EJP898.full) <br />
-I.Corwin, A.Hammond, M.Hegde, K.Matetski, _Electron. J. Probab._, 28: 1-81 (2023), [arXiv](https://arxiv.org/abs/2101.04205) <br /><br />
+I.Corwin, A.Hammond, M.Hegde, K.Matetski, _Electron. J. Probab._, 28: 1-81 (2023), [arXiv](https://arxiv.org/abs/2101.04205) <br />
 
 - [TASEP and generalizations: Method for exact solution](https://link.springer.com/article/10.1007/s00440-022-01129-w) <br /> 
-K.Matetski, D.Remenik, _Probab. Theory Relat. Fields_, 185.1-2, 2023, [arXiv](https://arxiv.org/abs/2107.07984) <br /><br />
+K.Matetski, D.Remenik, _Probab. Theory Relat. Fields_, 185.1-2, 2023, [arXiv](https://arxiv.org/abs/2107.07984) <br />
 
 - [The KPZ fixed point](https://www.intlpress.com/site/pub/pages/journals/items/acta/content/vols/0227/0001/a003/index.php) <br />
-K.Matetski, J.Quastel, D.Remenik, _Acta Math._, Vol. 227 (1), 2021, [arXiv](https://arxiv.org/abs/1701.00018) <br /><br />
+K.Matetski, J.Quastel, D.Remenik, _Acta Math._, Vol. 227 (1), 2021, [arXiv](https://arxiv.org/abs/1701.00018) <br />
 
 - [Characterization of Brownian Gibbsian line ensembles](https://projecteuclid.org/journals/annals-of-probability/volume-49/issue-5/Characterization-of-Brownian-Gibbsian-line-ensembles/10.1214/21-AOP1513.short) <br /> 
-E.Dimitrov, K.Matetski, _Ann. Probab._, 49(5), 2021, [arXiv](https://arxiv.org/abs/2002.00684) <br /><br />
+E.Dimitrov, K.Matetski, _Ann. Probab._, 49(5), 2021, [arXiv](https://arxiv.org/abs/2002.00684) <br />
 
 - [Stochastic PDE limit of the dynamic ASEP](https://link.springer.com/article/10.1007%2Fs00220-020-03905-y) <br />
-I.Corwin, P.Ghosal, K.Matetski, _Comm. Math. Phys._, 380(3), 2020, [arXiv](https://arxiv.org/abs/1906.04069) <br /><br />
+I.Corwin, P.Ghosal, K.Matetski, _Comm. Math. Phys._, 380(3), 2020, [arXiv](https://arxiv.org/abs/1906.04069) <br />
 
 - [From the totally asymmetric simple exclusion process to the KPZ fixed point](https://bookstore-ams-org.ezproxy.cul.columbia.edu/pcms-26/) <br />
 J.Quastel, K.Matetski, _Random matrices, Vol. 26, IAS/Park City Mathematical Series_, American Mathematical Society,
-2019, [arXiv](https://arxiv.org/abs/1710.02635) <br /><br />
+2019, [arXiv](https://arxiv.org/abs/1710.02635) <br />
 
 - [Space-time discrete KPZ equation](https://link.springer.com/article/10.1007/s00220-018-3089-9) <br />
-G.Cannizzaro, K.Matetski, _Comm. Math. Phys._, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)<br /><br />
+G.Cannizzaro, K.Matetski, _Comm. Math. Phys._, 358(2), 2018, [arXiv](https://arxiv.org/abs/1611.09719)<br />
 
 - [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full) <br />
-M.Hairer, K.Matetski, _Ann. Probab._, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937) <br /><br />
+M.Hairer, K.Matetski, _Ann. Probab._, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937) <br />
 
-- Ph.D. thesis, __Discretisations of rough stochastic partial differential equations__, 2016, [link](http://wrap.warwick.ac.uk/81460/)<br /><br />
+- Ph.D. thesis, __Discretisations of rough stochastic partial differential equations__, 2016, [link](http://wrap.warwick.ac.uk/81460/)<br />
 
 - [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5) <br />
-M.Hairer, K.Matetski, _Stoch. Partial Differ. Equ. Anal. Comput._, 3(4), 2015, [arXiv](https://arxiv.org/abs/1504.05134) <br /><br />
+M.Hairer, K.Matetski, _Stoch. Partial Differ. Equ. Anal. Comput._, 3(4), 2015, [arXiv](https://arxiv.org/abs/1504.05134) <br />
 
 - Master thesis, __Convergence of infinite dimensional stochastic processes__ <br />
-2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172) <br /><br />
+2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172) <br />
 
 - __On risk estimation of homogeneous finite Markov chains with unknown parameters__ <br />
-Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010 <br /><br />
+Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010 <br />
 
 - __On forecasting of discrete time series based on Markov chains__ <br />
-Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008 <br /><br />
+Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008 <br />
 
 ### Recent talks
 
