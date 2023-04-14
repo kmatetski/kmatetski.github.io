@@ -69,6 +69,7 @@ TBA-->
 
 ### Recent talks
 
+- 13/4/2023 - CRM-ISM Montreal Probability seminar, McGill University
 - 21/2/2023 - Probability seminar, Politechnika Warszawska
 - 11/22/2022 - Graduate seminar, AMS Graduate Student Chapter, Michigan State University
 - 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
