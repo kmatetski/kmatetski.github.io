@@ -94,7 +94,7 @@ K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
 A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
 
 - __Polynuclear growth and the Toda lattice__ <br />
-K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br />
+K.Matetski, J.Quastel, D.Remenik, _Accepted to CPAM_, 2023, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
 - __Directed mean curvature flow in noisy environment__ <br />
 M.Hairer, A.Gerasimovics, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2201.08807) <br />
