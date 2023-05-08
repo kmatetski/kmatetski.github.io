@@ -37,7 +37,7 @@ Email: <matetski@msu.edu>
 </fieldset>
 
 ### Awards
-- [Bernoulli Society New Researcher Award 2022](http://www.bernoulli-society.org/news/37-general-announcement/324-bernoulli-society-new-researcher-award-2023)
+- [Bernoulli Society New Researcher Award 2022](https://www.bernoullisociety.org/index.php/prizes/15-features/278-past-new-researcher)
 - NSF Grant _"The Kardar-Parisi-Zhang universality of random growing interfaces"_ ([DMS-1953859](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1953859&HistoricalAwards=false)), 2020
 - Chancellor’s International Scholarship, University of Warwick, 2012 - 2016
 - Scholarship of the state North Rhine-Westphalia, University of Bonn, 2010 - 2012
