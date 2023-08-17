@@ -69,6 +69,7 @@ TBA-->
 
 ### Recent talks
 
+- 14-16/8/2023 - Workshop on Stochastic Analysis, Random Fields, and Applications, Michigan State University
 - 10-14/7/2023 - Probability and Algebra: New Expressions In Mathematics, Texas A&M University
 - 21-26/5/2023 - New Trends in Stochastic Analysis, Casa Matemática Oaxaca / Banff International Research Station
 - 13/4/2023 - CRM-ISM Montreal Probability seminar, McGill University
