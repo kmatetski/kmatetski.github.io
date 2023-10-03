@@ -45,7 +45,7 @@ Email: <matetski@msu.edu>
 of Markov stochastic sequences"_, 2009
 - Scholarship of Priorbank (Raiffeisen Zentralbank Group) for the best students in Mathematics and Economics, Belarus, 2008
 
-### Teaching
+<!--### Teaching
 
 <fieldset>
 	<dl>
@@ -53,7 +53,7 @@ of Markov stochastic sequences"_, 2009
 			<dd> Fall 2022: Real Analysis 1 (MTH-320), <a href="https://www.dropbox.com/s/a5dlnzd8siol3k2/mth320_syllabus_fs22.pdf?dl=0">Syllabus</a> </dd>
 		<dd> Spring 2023: Real Analysis 1 (MTH-320), <a href="https://www.dropbox.com/s/1tqre18tjrloo8t/mth320_syllabus_ss23.pdf?dl=0">Syllabus</a> </dd>
 	</dl>
-</fieldset>
+</fieldset-->
 
 <!--#### Columbia University
 
@@ -100,7 +100,7 @@ A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
 K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
 - __Directed mean curvature flow in noisy environment__ <br />
-M.Hairer, A.Gerasimovics, K.Matetski, _Accepted to Comm. Pure Appl. Math_, 2023, [arXiv](https://arxiv.org/abs/2201.08807) <br />
+M.Hairer, A.Gerasimovics, K.Matetski, Comm. Pure Appl. Math_, 2023, [arXiv](https://arxiv.org/abs/2201.08807) <br />
 
 - [Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-28/issue-none/Exceptional-times-when-the-KPZ-fixed-point-violates-Johanssons-conjecture/10.1214/22-EJP898.full) <br />
 I.Corwin, A.Hammond, M.Hegde, K.Matetski, _Electron. J. Probab._, 28: 1-81 (2023), [arXiv](https://arxiv.org/abs/2101.04205) <br />
