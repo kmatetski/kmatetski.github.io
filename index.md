@@ -63,7 +63,7 @@ TBA
 
 TBA
 
-#### Univeristy of Warwick
+#### University of Warwick
 
 TBA-->
 
