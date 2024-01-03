@@ -67,7 +67,7 @@ TBA
 
 TBA-->
 
-### Recent talks
+<!--### Recent talks
 
 - 14-16/8/2023 - Workshop on Stochastic Analysis, Random Fields, and Applications, Michigan State University
 - 10-14/7/2023 - Probability and Algebra: New Expressions In Mathematics, Texas A&M University
@@ -78,7 +78,7 @@ TBA-->
 - 11/14/2022 - 11/16/2022 - Workshop: Stochastic PDEs and related topics. Brin Mathematics Research Center, University of Maryland, College Park
 - 11/3/2022 - Differential equations seminar, University of Michigan
 - 10/19/2022 - Probability seminar, Michigan State University
-- 10/5/2022 - Analysis & PDEs seminar, Michigan State University
+- 10/5/2022 - Analysis & PDEs seminar, Michigan State University -->
 
 ### Publications
 
