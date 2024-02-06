@@ -99,7 +99,7 @@ A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
 - __Polynuclear growth and the Toda lattice__ <br />
 K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
-- __Directed mean curvature flow in noisy environment__ <br />
+- [Directed mean curvature flow in noisy environment](https://onlinelibrary.wiley.com/doi/10.1002/cpa.22158) <br />
 M.Hairer, A.Gerasimovics, K.Matetski, Comm. Pure Appl. Math., 2023, [arXiv](https://arxiv.org/abs/2201.08807) <br />
 
 - [Exceptional times when the KPZ fixed point violates Johansson’s conjecture on maximizer uniqueness](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-28/issue-none/Exceptional-times-when-the-KPZ-fixed-point-violates-Johanssons-conjecture/10.1214/22-EJP898.full) <br />
