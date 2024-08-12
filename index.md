@@ -88,7 +88,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10242) <br />
 
 - __Martingale-driven integrals and singular SPDEs__ <br />
-P.Grazieschi, K.Matetski, H.Weber, 2023, [arXiv](https://arxiv.org/abs/2303.10245) <br />
+P.Grazieschi, K.Matetski, H.Weber, Accepted to _Probab. Theory Relat. Fields_, 2024, [arXiv](https://arxiv.org/abs/2303.10245) <br />
 
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__ <br />
 K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
@@ -97,7 +97,7 @@ K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
 A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
 
 - __Polynuclear growth and the Toda lattice__ <br />
-K.Matetski, J.Quastel, D.Remenik, 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br />
+K.Matetski, J.Quastel, D.Remenik, Accepted to _J. Eur. Math. Soc._ 2022, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
 - [Directed mean curvature flow in noisy environment](https://onlinelibrary.wiley.com/doi/10.1002/cpa.22158) <br />
 M.Hairer, A.Gerasimovics, K.Matetski, Comm. Pure Appl. Math., 2023, [arXiv](https://arxiv.org/abs/2201.08807) <br />
