@@ -88,7 +88,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_ (to appear), 2024, [arXiv](https://arxiv.org/abs/2303.10245) <br />
 
 - __The dynamical Ising-Kac model in 3D converges to Φ^4_3__ <br />
-P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_ (to appear), 2024, [arXiv](https://arxiv.org/abs/2303.10242) <br />
+P.Grazieschi, K.Matetski, H.Weber, Probab. Theory Relat. Fields (to appear), 2024, [arXiv](https://arxiv.org/abs/2303.10242) <br />
 
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__ <br />
 K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
