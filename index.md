@@ -90,7 +90,7 @@ K.Matetski, J.Quastel, D.Remenik, _J. Eur. Math. Soc._(to appear), 2024, [arXiv]
 - [Martingale-driven integrals and singular SPDEs](https://link.springer.com/article/10.1007/s00440-024-01311-2) <br />
 P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_, 2024, [arXiv](https://arxiv.org/abs/2303.10245) <br />
 
-- [The dynamical Ising-Kac model in 3D converges to Φ^4_3](https://link.springer.com/article/10.1007/s00440-024-01316-x) <br />
+- [The dynamical Ising-Kac model in 3D converges to Φ^4_3]( https://link.springer.com/article/10.1007/s00440-024-01316-x) <br />
 P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_, 2024, [arXiv](https://arxiv.org/abs/2303.10242) <br />
 
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__ <br />
