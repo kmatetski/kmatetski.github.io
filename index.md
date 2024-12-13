@@ -45,15 +45,14 @@ Email: <matetski@msu.edu>
 of Markov stochastic sequences"_, 2009
 - Scholarship of Priorbank (Raiffeisen Zentralbank Group) for the best students in Mathematics and Economics, Belarus, 2008 -->
 
-<!--### Teaching
+### Teaching
 
 <fieldset>
 	<dl>
-		<dt><strong>Michigan State University</strong></dt>
-			<dd> Fall 2022: Real Analysis 1 (MTH-320), <a href="https://www.dropbox.com/s/a5dlnzd8siol3k2/mth320_syllabus_fs22.pdf?dl=0">Syllabus</a> </dd>
-		<dd> Spring 2023: Real Analysis 1 (MTH-320), <a href="https://www.dropbox.com/s/1tqre18tjrloo8t/mth320_syllabus_ss23.pdf?dl=0">Syllabus</a> </dd>
+		<dd> Spring 2025: Complex Analysis 1 (MTH-829), <a href="https://www.dropbox.com/s/1tqre18tjrloo8t/mth320_syllabus_ss23.pdf?dl=0">Syllabus</a> </dd>
+		<dd> Spring 2025: Differential Equations (MTH-235) </dd>
 	</dl>
-</fieldset-->
+</fieldset
 
 <!--#### Columbia University
 
