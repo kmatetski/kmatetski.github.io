@@ -49,10 +49,10 @@ of Markov stochastic sequences"_, 2009
 
 <fieldset>
 	<dl>
-		<dd> Spring 2025: Complex Analysis 1 (MTH-829), <a href="https://www.dropbox.com/s/1tqre18tjrloo8t/mth320_syllabus_ss23.pdf?dl=0">Syllabus</a> </dd>
+		<dd> Spring 2025: Complex Analysis 1 (MTH-829), <a href="https://www.dropbox.com/scl/fi/ag4bid0rascge2mjxxlpd/mth829_syllabus_ss25.pdf?rlkey=33557wyesn40v5dqkg5348eoc&st=y81o7hd2&dl=0">Syllabus</a> </dd>
 		<dd> Spring 2025: Differential Equations (MTH-235) </dd>
 	</dl>
-</fieldset
+</fieldset>
 
 <!--#### Columbia University
 
