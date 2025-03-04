@@ -32,7 +32,7 @@ Email: <matetski@msu.edu>
 		<dt>2010 - 2012 &nbsp;&nbsp;&nbsp; <strong>M.Sc. in Mathematics</strong></dt>
 			<dd><em>University of Bonn</em>, Germany. Adviser <a href="https://wt.iam.uni-bonn.de/bovier/home/">Anton Bovier</a></dd>
 		<dt>2005 - 2010 &nbsp;&nbsp;&nbsp; <strong>Diploma in Applied Mathematics</strong></dt>
-			<dd><em>Belarus State University</em>, Belarus. Adviser <a href="http://apmi.bsu.by/en/staff/yuriy-kharin.html">Yuriy Kharin</a></dd>
+			<dd><em>Belarusian State University</em>, Belarus. Adviser <a href="http://apmi.bsu.by/en/staff/yuriy-kharin.html">Yuriy Kharin</a></dd>
 	</dl>
 </fieldset>
 
