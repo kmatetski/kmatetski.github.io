@@ -83,6 +83,9 @@ TBA-->
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
+- Scaling limit of a weakly asymmetric simple exclusion process in the framework of regularity structures <br />
+R.Huang, K.Matetski, H.Weber, 2025, [arXiv](TBA) <br />
+
 - [Polynuclear growth and the Toda lattice](https://ems.press/journals/jems/articles/14298458) <br />
 K.Matetski, J.Quastel, D.Remenik, _J. Eur. Math. Soc._, 2025, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
@@ -95,7 +98,7 @@ P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_, 190: pp. 1063
 - __Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths__ <br />
 K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
 
-- __The strong Feller property of the open KPZ equation__ <br />
+- The strong Feller property of the open KPZ equation <br />
 A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
 
 - [Directed mean curvature flow in noisy environment](https://onlinelibrary.wiley.com/doi/10.1002/cpa.22158) <br />
