@@ -84,7 +84,7 @@ TBA-->
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
 
 - Scaling limit of a weakly asymmetric simple exclusion process in the framework of regularity structures <br />
-R.Huang, K.Matetski, H.Weber, 2025, [arXiv](TBA) <br />
+R.Huang, K.Matetski, H.Weber, 2025, [arXiv](https://arxiv.org/abs/2505.00621) <br />
 
 - [Polynuclear growth and the Toda lattice](https://ems.press/journals/jems/articles/14298458) <br />
 K.Matetski, J.Quastel, D.Remenik, _J. Eur. Math. Soc._, 2025, [arXiv](https://arxiv.org/abs/2209.02643) <br />
