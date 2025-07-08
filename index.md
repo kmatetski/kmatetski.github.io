@@ -129,16 +129,16 @@ G.Cannizzaro, K.Matetski, _Comm. Math. Phys._, 358(2), 2018, [arXiv](https://arx
 - [Discretisations of rough stochastic PDEs](https://projecteuclid.org/journals/annals-of-probability/volume-46/issue-3/Discretisations-of-rough-stochastic-PDEs/10.1214/17-AOP1212.full) <br />
 M.Hairer, K.Matetski, _Ann. Probab._, 46(3), 2018, [arXiv](https://arxiv.org/abs/1511.06937) <br />
 
-- Ph.D. thesis, __Discretisations of rough stochastic partial differential equations__, 2016, [link](http://wrap.warwick.ac.uk/81460/)<br />
+- Ph.D. thesis, Discretisations of rough stochastic partial differential equations, 2016, [link](http://wrap.warwick.ac.uk/81460/)<br />
 
 - [Optimal rate of convergence of the stochastic Burgers-type equations](https://link.springer.com/article/10.1007%2Fs40072-015-0067-5) <br />
 M.Hairer, K.Matetski, _Stoch. Partial Differ. Equ. Anal. Comput._, 3(4), 2015, [arXiv](https://arxiv.org/abs/1504.05134) <br />
 
-- Master thesis, __Convergence of infinite dimensional stochastic processes__ <br />
+- Master thesis, Convergence of infinite dimensional stochastic processes <br />
 2012, [link](https://bonnus.ulb.uni-bonn.de/SummonRecord/FETCH-bonn_catalog_36708172) <br />
 
-- __On risk estimation of homogeneous finite Markov chains with unknown parameters__ <br />
+- On risk estimation of homogeneous finite Markov chains with unknown parameters <br />
 Yu.Kharin, K.Matetski, _Vestnik of Belarusian State University_, 2010 <br />
 
-- __On forecasting of discrete time series based on Markov chains__ <br />
+- On forecasting of discrete time series based on Markov chains <br />
 Yu.Kharin, K.Matetski, A.Pyatlitski, _"Economics, modeling, forecasting"_, 2008 <br />
