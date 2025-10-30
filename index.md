@@ -86,6 +86,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ
 - Scaling limit of a weakly asymmetric simple exclusion process in the framework of regularity structures <br />
 R.Huang, K.Matetski, H.Weber, 2025, [arXiv](https://arxiv.org/abs/2505.00621) <br />
 
+- [Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-30/issue-none/Exact-solution-of-TASEP-and-variants-with-inhomogeneous-speeds-and/10.1214/25-EJP1430.full) <br />
+K.Matetski, D.Remenik, _Electron. J. Probab._, 30: 1-54 (2025), [arXiv](https://arxiv.org/abs/2301.13739) <br />
+
 - [Polynuclear growth and the Toda lattice](https://ems.press/journals/jems/articles/14298458) <br />
 K.Matetski, J.Quastel, D.Remenik, _J. Eur. Math. Soc._, 2025, [arXiv](https://arxiv.org/abs/2209.02643) <br />
 
@@ -94,9 +97,6 @@ P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_, 191: 671–77
 
 - [Martingale-driven integrals and singular SPDEs](https://link.springer.com/article/10.1007/s00440-024-01311-2) <br />
 P.Grazieschi, K.Matetski, H.Weber, _Probab. Theory Relat. Fields_, 190: pp. 1063–1120, 2024, [arXiv](https://arxiv.org/abs/2303.10245) <br />
-
-- Exact solution of TASEP and variants with inhomogeneous speeds and memory lengths <br />
-K.Matetski, D.Remenik, 2023, [arXiv](https://arxiv.org/abs/2301.13739) <br />
 
 - The strong Feller property of the open KPZ equation <br />
 A.Knizel, K.Matetski, 2022, [arXiv](https://arxiv.org/abs/2211.04466) <br />
