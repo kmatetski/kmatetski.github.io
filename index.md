@@ -45,15 +45,6 @@ Email: <matetski@msu.edu>
 of Markov stochastic sequences"_, 2009
 - Scholarship of Priorbank (Raiffeisen Zentralbank Group) for the best students in Mathematics and Economics, Belarus, 2008 -->
 
-### Teaching
-
-<fieldset>
-	<dl>
-		<dd> Spring 2025: Complex Analysis 1 (MTH-829), <a href="https://www.dropbox.com/scl/fi/ag4bid0rascge2mjxxlpd/mth829_syllabus_ss25.pdf?rlkey=33557wyesn40v5dqkg5348eoc&st=y81o7hd2&dl=0">Syllabus</a> </dd>
-		<dd> Spring 2025: Differential Equations (MTH-235) </dd>
-	</dl>
-</fieldset>
-
 <!--#### Columbia University
 
 TBA
@@ -82,6 +73,9 @@ TBA-->
 ### Publications
 
 See also [Google Scholar](https://scholar.google.com/citations?user=P5-kSI4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7314-000X), [arXiv](https://arxiv.org/search/math?searchtype=author&query=Matetski%2C+K)
+
+- Space-time fractional stochastic Burgers-type equation <br />
+M.-W.Kuo, K.Matetski, 2026, [arXiv](https://arxiv.org/abs/2609.20599) <br />
 
 - Scaling limit of a weakly asymmetric simple exclusion process in the framework of regularity structures <br />
 R.Huang, K.Matetski, H.Weber, 2025, [arXiv](https://arxiv.org/abs/2505.00621) <br />
